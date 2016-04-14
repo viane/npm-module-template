@@ -1,5 +1,10 @@
-# node-stacks
-Just clone node template projects with node stacks you need such as babel, webpack, react, CSS modules, etc.
+# Pure Babel
+This template is for deploying NPM package with Babel.
 
-# License
-[MIT license](./LICENSE)
+It consists of:
+
+* Babel 6
+* Babel ES2015 Preset
+* Babel Stage 2 Preset
+* Flow
+* ESLint
