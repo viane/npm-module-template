@@ -26,6 +26,3 @@ node_modules
 .eslintrc.json
 .flowconfig
 .gitignore
-
-# Intro
-README.md

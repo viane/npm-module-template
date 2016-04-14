@@ -7,6 +7,10 @@
   ],
   "author": "BaHwan Han <beingbook@gmail.com>",
   "main": "lib/index.js",
+  "engines": {
+    "node": ">=5.0 <6",
+    "npm": ">=3.3 <4"
+  },
   "scripts": {
     "test": "mocha tests/* --compilers js:babel-register --require ./tests/helper.js --recursive",
     "start": "babel-node ./src/entry.js",
