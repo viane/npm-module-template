@@ -1,6 +1,6 @@
 {
   "name": "npm-module-template",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NPM package template to quick-start with Babel, Flow, ESLint and Mocha.",
   "keyword": [
     "template",
