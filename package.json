@@ -1,10 +1,13 @@
 {
   "name": "npm-module-template",
   "version": "1.0.4",
-  "description": "NPM package template",
+  "description": "NPM package template to quick-start with Babel, Flow, ESLint and Mocha.",
   "keyword": [
-    "package-keyword",
-    "package-keywords"
+    "template",
+    "babel",
+    "flow",
+    "eslint",
+    "mocha"
   ],
   "author": "BaHwan Han <beingbook@gmail.com>",
   "main": "lib/index.js",
