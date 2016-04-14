@@ -1,6 +1,12 @@
 # Source
 src
 
+# Tests
+tests
+
+# Temporal files
+.DS_Store
+
 # Logs
 logs
 *.log
