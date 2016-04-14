@@ -1,7 +1,7 @@
 # NPM-Package Template
 [![npm version](https://badge.fury.io/js/npm-module-template.svg?flat-square)](https://badge.fury.io/js/npm-module-template)
 [![Dependency Status](https://david-dm.org/beingbook/npm-module-template.svg?style=flat-square)](https://david-dm.org/beingbook/npm-module-template)
-[![devDependency Status](https://david-dm.org/beingbook/npm-module-template/dev-status.svg)](https://david-dm.org/beingbook/npm-module-template#info=devDependencies)
+[![devDependency Status](https://david-dm.org/beingbook/npm-module-template/dev-status.svg?style=flat-square)](https://david-dm.org/beingbook/npm-module-template#info=devDependencies)
 
 [![NPM](https://nodei.co/npm/npm-module-template.png)](https://nodei.co/npm/npm-module-template/)
 
