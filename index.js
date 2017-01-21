@@ -1,5 +1,3 @@
 'use strict';
 
-module.exports = function (opts) {
-  return 'success';
-};
+module.exports = require('./$');

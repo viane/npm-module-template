@@ -1,5 +1,5 @@
 {
-  "name": "npm-module-template",
+  "name": "@erchaves/npm-module-template",
   "version": "1.0.5",
   "description": "NPM package template to quick-start with Babel, Flow, ESLint and Mocha. Based on https://github.com/Beingbook/npm-module-template",
   "keyword": [
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/erchaves/npm-module-template"
+    "url": "git+https://github.com/erchaves/npm-module-template.git"
   },
   "license": "MIT",
   "scripts": {
@@ -57,5 +57,12 @@
     "eslint-plugin-react": "^6.9.0",
     "mocha": "^3.2.0",
     "pretty-error": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/erchaves/npm-module-template/issues"
+  },
+  "homepage": "https://github.com/erchaves/npm-module-template#readme",
+  "directories": {
+    "test": "tests"
   }
 }
